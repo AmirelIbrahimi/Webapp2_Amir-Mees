@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    
+        <div class="kaas">hoi</div>
+
+        <button id="waarschuwing"></button>
+        <script src="js/main.js"></script>
 </body>
 </html>
